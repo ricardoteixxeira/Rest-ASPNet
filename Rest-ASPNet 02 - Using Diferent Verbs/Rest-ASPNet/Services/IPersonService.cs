@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Rest_ASPNet.Model;
+using System.Collections.Generic;
 
-namespace Rest-ASPNet.Services
+namespace Rest_ASPNet.Services
 {
     public interface IPersonService
     {

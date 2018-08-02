@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Rest_ASPNet.Model;
+using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace Rest-ASPNet.Services.Implementations
+namespace Rest_ASPNet.Services.Implementations
 {
     public class PersonServiceImpl : IPersonService
 {

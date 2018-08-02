@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Rest;
+using Rest_ASPNet.Model;
+using Rest_ASPNet.Services;
 
 namespace Rest_ASPNet.Controllers
 {
